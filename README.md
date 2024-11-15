@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Martin Sharma</h1>
-<h3 align="center">A passionate MERN developer</h3>
+<h3 align="center">A passionate SOFTWARE developer</h3>
   <img  height="400" width = "1000" src= "https://as1.ftcdn.net/v2/jpg/07/01/81/12/1000_F_701811242_SOcfiaq3TJlYbcSu596Z2RQN0VsAZnmM.jpg" /> 
 
 
