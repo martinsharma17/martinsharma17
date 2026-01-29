@@ -8,9 +8,8 @@
 
 <p align="left"> <a href="https://twitter.com/https://x.com/martinsharma7" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/martinsharma7?logo=twitter&style=for-the-badge" alt="https://x.com/martinsharma7" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [martinsharma.com.np](martinsharma.com.np)
+- 👨‍💻
 
-- 📫 How to reach me **martinsharma18@gmail.com**
 
 - ⚡ Fun fact **I think I am Funny**
 
